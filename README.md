@@ -1,3 +1,57 @@
+# Airbnb Experiences Clone
+
+This repository contains the code for building Airbnb Experiences Clone using ReactJS, Boot-Strap & Materials Icon.  The project aims to recreate the visual design, fetching local data and layout of the Airbnb Experiences page, providing a starting point for creating similar interfaces or learning web development techniques.
+
+## Preview
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/6069d795-ec65-4cc3-b266-89e463eef0dd/deploy-status)](https://app.netlify.com/sites/m-airbnb-experiences/deploys)
+
+![image](https://github.com/Alok-2002/Netflix_Home_Page_Using_HTML_And_CSS/assets/93814546/4959b8ef-266f-4194-8709-b90223d69b2e)
+
+## Features
+
+- Responsive design: The web page adapts to different screen sizes, ensuring a consistent user experience on desktop.
+- Interactive components: The page includes interactive elements such as buttons, carousel, and hover effects.
+- CSS styling: The stylesheets provide a sleek and modern look, resembling the actual Airbnb Experiences page.
+- Cards: The page contains different cards having data, which is fetched by local data of Airbnb.
+
+## Tech used 🛠️
+
+- [React](https://reactjs.org/) - UI Library
+- [Bootstrap CSS](https://getbootstrap.com/) - CSS Framework
+- [Prettier](https://prettier.io/) - Code Formatter
+
+## Getting Started
+
+To get started with this project, follow these steps:
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/Mubassim-Khan/Airbnb-Experiences-Clone.git
+```
+
+2. Open the project in your preferred code editor.
+
+3. Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+4. Feel free to modify the code and customize the page according to your preferences. You can update the content, change the colors, or add new features.
+
+## Contributing
+
+Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
+
+## Contact
+
+If you have any questions, suggestions, or feedback, you can reach out to the project maintainer:
+
+- Your Name : [Mubassim Ahmed Khan](https://www.linkedin.com/in/mubassim-ahmed-khan-8b835025a/)
+- Email: [mubassimkhan@gmail.com](mailto:mubassimkhan@gmail.com)
+
+---
+
+<!----->
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -28,43 +82,3 @@ The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
