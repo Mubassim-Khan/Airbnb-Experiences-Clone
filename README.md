@@ -6,7 +6,7 @@ This repository contains the code for building Airbnb Experiences Clone using Re
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/6069d795-ec65-4cc3-b266-89e463eef0dd/deploy-status)](https://app.netlify.com/sites/m-airbnb-experiences/deploys)
 
-![image](https://github.com/Alok-2002/Netflix_Home_Page_Using_HTML_And_CSS/assets/93814546/4959b8ef-266f-4194-8709-b90223d69b2e)
+![image](https://github.com/Mubassim-Khan/Airbnb-Experiences-Clone/blob/master/src/Assets/Preview.png)
 
 ## Features
 
