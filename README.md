@@ -4,7 +4,7 @@ This repository contains the code for building Airbnb Experiences Clone using Re
 
 ## Preview
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/6069d795-ec65-4cc3-b266-89e463eef0dd/deploy-status)](https://app.netlify.com/sites/m-airbnb-experiences/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/5e526a21-530d-423b-b1c7-efb25332c882/deploy-status)](https://app.netlify.com/sites/lively-bombolone-b2ef09/deploys)
 
 ![image](https://github.com/Mubassim-Khan/Airbnb-Experiences-Clone/blob/master/src/Assets/Preview.png)
 
